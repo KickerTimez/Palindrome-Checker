@@ -1,6 +1,6 @@
 # Palindromic Number Checker
 
-<h3 align="left">A simple program that checks if a reversed number is the same as the original:</h3>
+<h3 align="left">A simple program that checks if a reversed number is the same as the original</h3>
 
 <h2><strong>examples:</strong></h2>
 <p>12121 ->> 12121 (true)</p>
